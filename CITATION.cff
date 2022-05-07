@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hyatt"
+  given-names: "Jonas Peter"
+  orcid: "https://orcid.org/0000-0002-3000-4745"
+title: "Likert analysis via bootstrapping"
+version: 1.0.0
+date-released: 2022-05-07
+url: "https://github.com/hyatt03/bootstrapping_for_likert"
